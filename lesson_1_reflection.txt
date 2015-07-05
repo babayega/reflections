@@ -1,0 +1,13 @@
+1)the bug was easily identifiable.
+since the file was quite large hence it would have been 
+impossible to find the bug without diff.
+
+2)having access to the entire history would enable me to identify the changes i made in the file and also help me identify the bugs which come.
+
+3) manual commit lest me commit when i think the code is to be committed.
+
+4) saving multiple files has an advantage.
+
+5) because i'll be able to go back at any time  i want.
+
+6) i'll use it for large projects.

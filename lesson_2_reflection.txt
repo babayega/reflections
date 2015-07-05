@@ -1,0 +1,3 @@
+1) when the repo is initialised it comes under version control, this means it starts getting tracked.we need it because it helps to track changes.
+
+2) staging area is where the temporary commits are added.

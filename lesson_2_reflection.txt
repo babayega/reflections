@@ -1,3 +1,9 @@
 1) when the repo is initialised it comes under version control, this means it starts getting tracked.we need it because it helps to track changes.
 
 2) staging area is where the temporary commits are added.
+
+3) staging area can be used by adding only one file at a time or adding files with similar specifications.
+
+4) branches can be used for exp code to be added
+
+5) diagrams help in identifying which branch is where.
